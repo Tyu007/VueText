@@ -1,4 +1,4 @@
-# domo001
+# domo
 
 ## Project setup
 ```
